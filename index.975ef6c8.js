@@ -28757,7 +28757,7 @@ const educationDetails = [
     {
         level: "Current Education",
         institution: "NMIMSUniversity",
-        degree: "Bachelor of Science in Computer Science",
+        degree: "Bachelor of Technology in Computer Science",
         year: "2022 - Present"
     },
     {
