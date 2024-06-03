@@ -31,27 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Database Management System Project",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The Hospital Management System (HMS) is a software application designed to streamline the management of hospital operation using Python and SQL",
+    url: "https://github.com/Priyanshu-2811/Hospital-Management-System",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Web Development Project",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A Food Ordering Website Project using HTML, CSS, JavaScript, AngularJS, NodeJS along with database connectivity.",
+    url: "https://github.com/Priyanshu-2811/The-Food-Crew",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://priyanshu-2811.github.io/Workspace/Assignmen1/CV",
   },
   {
     title: "GitHub Codespaces and github.dev",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "Create from Microsoft's React on codespaces",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
