@@ -50,9 +50,8 @@ const projectList = [
   },
   {
     title: "GitHub Codespaces and github.dev",
-    description:
-      "Create from Microsoft's React on codespaces",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    description: "Create from Microsoft's React on codespaces",
+    url: "https://github.com/Priyanshu-2811/React",
   },
 ];
 
